@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_asset_qr_code_manager,access.asset.qr.code.manager,model_account_asset_asset,base.group_user,1,1,1,1
